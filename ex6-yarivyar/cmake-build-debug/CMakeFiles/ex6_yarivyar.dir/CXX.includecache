@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Owner/CLionProjects/ex6-yarivyar/Dictionary.hpp
+utility
+-
+HashMap.hpp
+/mnt/c/Users/Owner/CLionProjects/ex6-yarivyar/HashMap.hpp
+
+/mnt/c/Users/Owner/CLionProjects/ex6-yarivyar/HashMap.hpp
+vector
+-
+functional
+-
+
+/mnt/c/Users/Owner/CLionProjects/ex6-yarivyar/test_ex6.cpp
+HashMap.hpp
+/mnt/c/Users/Owner/CLionProjects/ex6-yarivyar/HashMap.hpp
+Dictionary.hpp
+/mnt/c/Users/Owner/CLionProjects/ex6-yarivyar/Dictionary.hpp
+iostream
+-
+utility
+-
+sstream
+/mnt/c/Users/Owner/CLionProjects/ex6-yarivyar/sstream
+

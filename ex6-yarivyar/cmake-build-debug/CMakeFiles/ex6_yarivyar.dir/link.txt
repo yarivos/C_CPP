@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ex6_yarivyar.dir/test_ex6.cpp.o  -o ex6_yarivyar 
