@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ex4_yarivyar.dir/main.cpp.o CMakeFiles/ex4_yarivyar.dir/Matrix.cpp.o CMakeFiles/ex4_yarivyar.dir/Dense.cpp.o CMakeFiles/ex4_yarivyar.dir/Activation.cpp.o CMakeFiles/ex4_yarivyar.dir/MlpNetwork.cpp.o  -o ex4_yarivyar 
