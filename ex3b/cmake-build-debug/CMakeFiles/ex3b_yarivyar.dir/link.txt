@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ex3b_yarivyar.dir/linked_list.c.o CMakeFiles/ex3b_yarivyar.dir/markov_chain.c.o CMakeFiles/ex3b_yarivyar.dir/snakes_and_ladders.c.o  -o ex3b_yarivyar 
